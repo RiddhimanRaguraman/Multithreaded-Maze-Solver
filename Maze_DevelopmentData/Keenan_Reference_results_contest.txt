@@ -1,0 +1,132 @@
+
+****************************************
+**      Framework: 4.43               **
+**   C++ Compiler: 194334810          **
+**  Tools Version: 14.43.34808        **
+**    Windows SDK: 10.0.26100.0       **
+**   Mem Tracking: --> DISABLED <--   **
+**           Mode: x64 Release        **
+****************************************
+**         Thread: 1.31               **
+****************************************
+
+Maze: start(.\Maze15Kx15K_E.data) ------------
+
+ Maze: STMazeSolverBFS
+    checkSolution(172359 elements): passed
+
+ Maze: STMazeSolverDFS
+    checkSolution(172359 elements): passed
+
+ Maze: MTStudentSolver
+    checkSolution(0 elements): FAILED!! <<<<-------
+
+Results (.\Maze15Kx15K_E.data):
+
+   BFS      : 6.108496 s
+   DFS      : 3.112603 s
+   Student  : 0.000001 s
+
+Maze: end() --------------
+
+
+****************************************
+
+****************************************
+**      Framework: 4.43               **
+**   C++ Compiler: 194334810          **
+**  Tools Version: 14.43.34808        **
+**    Windows SDK: 10.0.26100.0       **
+**   Mem Tracking: --> DISABLED <--   **
+**           Mode: x64 Release        **
+****************************************
+**         Thread: 1.31               **
+****************************************
+
+Maze: start(.\Maze15Kx15K_J.data) ------------
+
+ Maze: STMazeSolverBFS
+    checkSolution(164043 elements): passed
+
+ Maze: STMazeSolverDFS
+    checkSolution(164043 elements): passed
+
+ Maze: MTStudentSolver
+    checkSolution(0 elements): FAILED!! <<<<-------
+
+Results (.\Maze15Kx15K_J.data):
+
+   BFS      : 5.403127 s
+   DFS      : 3.945805 s
+   Student  : 0.000001 s
+
+Maze: end() --------------
+
+
+****************************************
+
+****************************************
+**      Framework: 4.43               **
+**   C++ Compiler: 194334810          **
+**  Tools Version: 14.43.34808        **
+**    Windows SDK: 10.0.26100.0       **
+**   Mem Tracking: --> DISABLED <--   **
+**           Mode: x64 Release        **
+****************************************
+**         Thread: 1.31               **
+****************************************
+
+Maze: start(.\Maze20Kx20K_B.data) ------------
+
+ Maze: STMazeSolverBFS
+    checkSolution(306443 elements): passed
+
+ Maze: STMazeSolverDFS
+    checkSolution(306443 elements): passed
+
+ Maze: MTStudentSolver
+    checkSolution(0 elements): FAILED!! <<<<-------
+
+Results (.\Maze20Kx20K_B.data):
+
+   BFS      : 9.652048 s
+   DFS      : 3.657276 s
+   Student  : 0.000001 s
+
+Maze: end() --------------
+
+
+****************************************
+
+****************************************
+**      Framework: 4.43               **
+**   C++ Compiler: 194334810          **
+**  Tools Version: 14.43.34808        **
+**    Windows SDK: 10.0.26100.0       **
+**   Mem Tracking: --> DISABLED <--   **
+**           Mode: x64 Release        **
+****************************************
+**         Thread: 1.31               **
+****************************************
+
+Maze: start(.\Maze20Kx20K_D.data) ------------
+
+ Maze: STMazeSolverBFS
+    checkSolution(291601 elements): passed
+
+ Maze: STMazeSolverDFS
+    checkSolution(291601 elements): passed
+
+ Maze: MTStudentSolver
+    checkSolution(0 elements): FAILED!! <<<<-------
+
+Results (.\Maze20Kx20K_D.data):
+
+   BFS      : 10.889543 s
+   DFS      : 4.271368 s
+   Student  : 0.000001 s
+
+Maze: end() --------------
+
+
+****************************************
