@@ -37,7 +37,7 @@ This solver uses bidirectional exploration with two threads running depth-first 
 ### Option A: Development Data (Testing Environment)
 The `Maze_DevelopmentData` folder contains the testing environment with an existing version of the project executable and test scripts.
 1.  Navigate to the `Maze_DevelopmentData` folder.
-2.  Run the `Test_Contest.bat` file to execute the solver against the contest dataset.
+2.  Run the `Test_Contest.bat` file to execute the solver against the contest dataset you would get result.txt.
 
 ### Option B: Visual Studio Solution (Source Code)
 The `Maze_Solution` folder contains the source code and Visual Studio solution.
