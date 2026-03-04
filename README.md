@@ -2,6 +2,9 @@
 
 A C++ maze solver framework designed to experiment with concurrency on a large search problem, utilizing lock-free synchronization and atomic operations for high-performance parallel processing.
 
+**Performance Snapshot**:
+For a **15,000 x 15,000** maze, this multithreaded solution reduced the execution time from **5.96s (BFS)** to **1.10s**, achieving a **~5.4x speedup**.
+
 ## 1. Problem Overview
 The application is a C++ maze solver framework designed to experiment with concurrency on a large search problem.
 *   **Maze Structure**: A maze is stored as a 2D grid of cells in the `Maze` class.
